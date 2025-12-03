@@ -1,5 +1,7 @@
 # Pokemon Battle
-**[checkout the play video](https://youtu.be/TEAhJm0BLQY)**
+
+## **[checkout the play video](https://youtu.be/TEAhJm0BLQY)**
+
 ![Image](https://github.com/user-attachments/assets/dbace959-f3cb-4857-84c5-03cc3acc9800)
 ![Image](https://github.com/user-attachments/assets/e1c76988-3b51-4676-a48d-739fb90a89d7)
 ![Image](https://github.com/user-attachments/assets/f4bddd3c-481c-444d-9e34-8194df017f31)
